@@ -1,5 +1,3 @@
-# Prodigy-Task-1
-
 # Fine-Tuning GPT-2 on Custom Dataset
 
 This repository contains code and instructions for fine-tuning the GPT-2 model on a custom dataset using the Hugging Face Transformers library. The goal is to adapt the pre-trained GPT-2 model for specific text generation tasks, allowing users to generate coherent and contextually relevant text based on their data.
